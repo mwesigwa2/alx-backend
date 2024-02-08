@@ -7,7 +7,7 @@ from flask_babel import Babel
 from typing import Union, Dict
 
 
-class Config(object):
+class Config:
     '''
         contains list of supported languages
     '''
